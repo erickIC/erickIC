@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on research and development realted to computation and engeneering
+- 🌱 I’m currently learning efficient machine learning and TinyML
+- 👯 I’m looking to collaborate on research and development projects related do machine learning, computer architecture, cyberphysical systems and embedded system.
+- 📫 How to reach me: erick@ic.ufal.br
